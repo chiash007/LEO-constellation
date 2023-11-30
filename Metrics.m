@@ -1,3 +1,4 @@
+% initial matrix definer
 classdef Metrics
     properties
         Directory;
