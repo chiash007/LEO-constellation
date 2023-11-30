@@ -1,3 +1,4 @@
+%models the orbital dynamics
 classdef timestep
     properties (Constant)
         mu = 398600.5;              % Earth gravitational constant
